@@ -2,7 +2,7 @@
 Type the name of the video in main.py and run it, results will be saved in result.csv file.
 
 ## Description:
-Licence plate recognition system written in Python, using OpenCV and Scikit-learn libraries. Can detect moving Dutch licence plates from a video.
+Licence plate recognition program written in Python, using OpenCV and Scikit-learn libraries. Can detect moving Dutch licence plates from a video.
 
 A thorough description of our approach can be found in the [Project Poster](Project_poster.pdf)
 
