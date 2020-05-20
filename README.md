@@ -6,4 +6,4 @@ Licence plate recognition system written in Python, using OpenCV and Scikit-lear
 
 A thorough description of our approach can be found in the [Project Poster](Project_poster.pdf)
 
-This project was made for CSE2220 Image Processign course of TU Delft, in collaboraion with Augustas Vilčinskas @Vilaug
+This project was made for CSE2220 Image Processign course of TU Delft, in collaboraion with Augustas Vilčinskas.
